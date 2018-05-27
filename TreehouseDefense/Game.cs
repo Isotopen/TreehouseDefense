@@ -27,7 +27,7 @@ namespace TreehouseDefense
                 {
                     new ShieldedInvader(path),
                     new Invader(path),
-                    new Invader(path),
+                    new StrongInvader(path),
                     new Invader(path)
                 };
                 
