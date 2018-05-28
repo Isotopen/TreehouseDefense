@@ -47,6 +47,7 @@
     <Compile Include="IInvader.cs" />
     <Compile Include="LongRangeTower.cs" />
     <Compile Include="PowerfulTower.cs" />
+    <Compile Include="ResurrectingInvader.cs" />
     <Compile Include="SniperTower.cs" />
     <Compile Include="StrongInvader.cs" />
     <Compile Include="Game.cs" />
